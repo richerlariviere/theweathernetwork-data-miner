@@ -8,7 +8,7 @@ are using abusively AJAX calls and some tricky javascript files inclusions. This
 
 ## The project
 
-The goal is to realize an ecosystem built around a data miner. The script will be executed on a regular basis, let's say, *12* times a day. The theweathernetwork's server returns a huge json
+The goal is to realize an ecosystem built around a data miner. The script will be executed on a regular basis, let's say, *24* times a day. The theweathernetwork's server returns a huge json
 string so we will have to setup a database to wrap up all those datas with well-chosen datatypes. This ecosystem could be a bunch of useful functions which perform data
 analysis.
 
